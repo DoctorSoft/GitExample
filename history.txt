@@ -1,1 +1,1 @@
-bug2 has been fixed
+1) bug2 has been fixed
